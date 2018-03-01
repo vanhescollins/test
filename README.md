@@ -1,4 +1,4 @@
-# My first github page
+# LC Coding
 This is just a test<br>
 Here is a line<br><br>
 <table><tr><td>And here is another</td>
