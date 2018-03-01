@@ -1,2 +1,2 @@
 # test
-First attempt at github
+This is just a test
